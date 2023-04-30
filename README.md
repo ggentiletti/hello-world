@@ -1,3 +1,3 @@
 # hello-world
 Primer practica en GitHub
-Agreamos un pimer cambio en esta branch, para hacer luego un commit!
+Agreamos un segundo cambio en esta branch, para hacer luego un commit!
